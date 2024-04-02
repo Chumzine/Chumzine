@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chumzine
-- 👀 I’m interested in backend engineering and web dev
-- 🌱 I’m currently learning backend engineering 
+- 👀 I’m interested in backend engineering, frontend development and web dev
+- 🌱 I have finished a diploma in backend engineering and will soon get certified in frontend development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: chumzine@gmail.com
 
